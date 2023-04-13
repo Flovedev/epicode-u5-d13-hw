@@ -6,7 +6,6 @@ import {
   Form,
   FormControl,
   ListGroup,
-  Button,
 } from "react-bootstrap";
 import { io } from "socket.io-client";
 import { User, Message } from "../types/index.js";
